@@ -68,7 +68,7 @@
   
 <br></br>
 <br></br>
-
+<!-- 
 ## &#x1f4c8; My GitHub Stats🎯
  
 <h3 align="left">Profile Views: 🧐</h3>
@@ -104,7 +104,8 @@
 <br></br>
 
 <h5><i>Well Well Well, you can't find much of my Github activity, but soon.<br></br>Not today, not tomorrow but soon very soon it will pump back to life.</i></h5>
-
+-->
 <p align="center">
   <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
+ 
