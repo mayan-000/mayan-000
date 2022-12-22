@@ -6,7 +6,7 @@
 </div>
 
 <h5 align="center">
-   <i>⚡️I don’t hate OOPS, but I don't like it much either. But I hate Windows but where will I play my games 🥺, I gotta love-hate it then.⚡️</i>
+   <!-- <i>⚡️I don’t hate OOPS, but I don't like it much either. But I hate Windows but where will I play my games 🥺, I gotta love-hate it then.⚡️</i> -->
 </h5>
 
 
