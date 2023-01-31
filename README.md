@@ -21,7 +21,7 @@
 <p>
   
 - Computer Science Engineering - 4th year - Lovely Professional University. 🎓
-- Interning at <a href="https://www.rtcamp.com/" target="_black">Fyle</a> as Web Engineer
+- Interning at <a href="https://www.rtcamp.com/" target="_black">rtCamp</a> as Web Engineer
 - Interned with  <a href="https://www.fylehq.com/" target="_black">Fyle</a>, <a href="https://blocklight.io/" target="_black">Blocklight</a> as Frontend Web Intern. 🎓
 - Looking for opportunities and collaborations in the field of Frontend or Backend Development. ✅
 - Seeking opportunities to work in a challenging environments and push my boundaries. 💪
