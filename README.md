@@ -2,7 +2,7 @@
 
 <div align="center">
 <!--  <img src="https://camo.githubusercontent.com/b308571fcf5bbbefd7869cd2aa205b5c02e286abd1cf7e6df53765c4d9b53993/68747470733a2f2f70726f6e6f756e2e63796f752f782f793f7375626a6563743d4865266f626a6563743d48696d266865696768743d3230"> -->
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 👦 Mayank Rana | 💻 FullStack Web Developer | 🛸 India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 💻 FullStack Web Developer | 🛸 India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 
 <h5 align="center">
